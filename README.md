@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Deepak 👋
 
-<!--
-**websdipak/websdipak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior PHP Developer with 10+ years of experience
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- PHP (Laravel, Symfony, Yii)
+- REST APIs, GraphQL
+- MySQL, PostgreSQL
+- Docker, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Booking System (Laravel)
+- REST API Project
+- Mini E-commerce App
+
+## 📍 Location
+Berlin, Germany
+
+## 📫 Contact
+- Email: websdipak@gmail.com
+- LinkedIn: https://www.linkedin.com/in/deepak-raval-webdev
